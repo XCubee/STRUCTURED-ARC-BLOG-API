@@ -1,5 +1,5 @@
 #  Simple Blog API in Go (Pure net/http)
-
+ 
 This project is a simple **Blog API built entirely using Go’s `net/http` package** — no third-party routing frameworks like Gorilla Mux or Gin. It's designed for **beginners who want a deep understanding of how Go’s HTTP server works under the hood**.
 
 ---
